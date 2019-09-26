@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/milestone/milestone.iml" filepath="$PROJECT_DIR$/milestone/milestone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passport-server/passport-server.iml" filepath="$PROJECT_DIR$/passport-server/passport-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-front-end/vue-element.iml" filepath="$PROJECT_DIR$/web-front-end/vue-element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-plan/web-plan.iml" filepath="$PROJECT_DIR$/web-plan/web-plan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xuejieLuchao.iml" filepath="$PROJECT_DIR$/.idea/xuejieLuchao.iml" />
+    </modules>
+  </component>
+</project>

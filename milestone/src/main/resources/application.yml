@@ -1,0 +1,23 @@
+server:
+  port: 8010
+
+spring:
+#  application:
+#    name: milestone
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/plans?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=true
+    username: root
+    password: 123@abcd
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: 127.0.0.1:8080
+#  instance:
+#    prefer-ip-address: true
